@@ -8,9 +8,9 @@
 class urlencoder {
 	
 	public static $name         = 'Voorloper.com: urlencoder';
-	public static $version      = '1.0';
+	public static $version      = '1.0.1';
 	public static $author       = 'Nathan van Bakel';
-	public static $author_url   = 'https://voorloper.com/';
+	public static $author_url   = 'https://www.voorloper.com/';
 	public static $description  = 'Gets a string ready for safe usage in the URL';
 	public static $typography   = FALSE;
 	
@@ -35,4 +35,5 @@ class urlencoder {
 	}
 
 }
-?>
+
+//EOF
